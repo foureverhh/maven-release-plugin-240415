@@ -4,7 +4,7 @@
 
     <groupId>li.yuan</groupId>
     <artifactId>maven-releases-test</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <parent>
@@ -16,7 +16,7 @@
    <scm>
        <!--https://maven.apache.org/scm/git.html scm example-->
        <connection>scm:git:https://github.com/foureverhh/maven-release-plugin-240415.git</connection>
-     <tag>maven-releases-test-1.0.0</tag>
+     <tag>HEAD</tag>
   </scm>
 
     <properties>
