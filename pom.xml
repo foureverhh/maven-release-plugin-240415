@@ -6,7 +6,7 @@
 
     <groupId>li.yuan</groupId>
     <artifactId>maven-releases-test</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <parent>
@@ -14,6 +14,11 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.1.1</version>
     </parent>
+
+   <scm>
+       <!--https://maven.apache.org/scm/git.html scm example-->
+       <connection>scm:git:https://github.com/foureverhh/maven-release-plugin-240415.git</connection>
+   </scm>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
