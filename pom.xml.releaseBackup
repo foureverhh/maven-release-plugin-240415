@@ -4,8 +4,8 @@
 
     <groupId>li.yuan</groupId>
     <artifactId>maven-releases-test</artifactId>
-    <version>1.0.6-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <version>1.0.5-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
