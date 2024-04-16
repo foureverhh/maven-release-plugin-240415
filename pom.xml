@@ -4,7 +4,7 @@
 
     <groupId>li.yuan</groupId>
     <artifactId>maven-releases-test</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <parent>
