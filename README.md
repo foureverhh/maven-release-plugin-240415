@@ -11,3 +11,4 @@
 ## mvn -B release:perform
 - remove -SNAPSHOT and create artifactory to git repo
 
+## release using .gitlab-ci.yml https://www.youtube.com/watch?v=nCtA0iomMpQ
